@@ -13,24 +13,24 @@
 
 ## Cite this
 
-The preferred citation if you use the XQ-100 sample is: 
+If you use the XQ-100 sample, the citation is: 
 
-> @ARTICLE{2016A&A...594A..91L,
->        author = {{L{\'o}pez}, S. and {D'Odorico}, V. and {Ellison}, S.~L. and {Becker}, G.~D. and {Christensen}, L. and {Cupani}, G. and {Denney}, K.~D. and {P{\^a}ris}, I. and {Worseck}, G. and {Berg}, T.~A.~M. and {Cristiani}, S. and {Dessauges-Zavadsky}, M. and {Haehnelt}, M. and {Hamann}, F. and {Hennawi}, J. and {Ir{\v{s}}i{\v{c}}}, V. and {Kim}, T. -S. and {L{\'o}pez}, P. and {Lund Saust}, R. and {M{\'e}nard}, B. and {Perrotta}, S. and {Prochaska}, J.~X. and {S{\'a}nchez-Ram{\'\i}rez}, R. and {Vestergaard}, M. and {Viel}, M. and {Wisotzki}, L.},
->         title = "{XQ-100: A legacy survey of one hundred 3.5 {\ensuremath{\lesssim}} z {\ensuremath{\lesssim}} 4.5 quasars observed with VLT/X-shooter}",
->       journal = {\aap},
->      keywords = {surveys, quasars: general, Astrophysics - Astrophysics of Galaxies},
->          year = 2016,
->         month = oct,
->        volume = {594},
->           eid = {A91},
->         pages = {A91},
->           doi = {10.1051/0004-6361/201628161},
-> archivePrefix = {arXiv},
->        eprint = {1607.08776},
->  primaryClass = {astro-ph.GA},
->        adsurl = {https://ui.adsabs.harvard.edu/abs/2016A&A...594A..91L},
->       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+> @ARTICLE{2016A&A...594A..91L, \
+>        author = {{L{\'o}pez}, S. and {D'Odorico}, V. and {Ellison}, S.~L. and {Becker}, G.~D. and {Christensen}, L. and {Cupani}, G. and {Denney}, K.~D. and {P{\^a}ris}, I. and {Worseck}, G. and {Berg}, T.~A.~M. and {Cristiani}, S. and {Dessauges-Zavadsky}, M. and {Haehnelt}, M. and {Hamann}, F. and {Hennawi}, J. and {Ir{\v{s}}i{\v{c}}}, V. and {Kim}, T. -S. and {L{\'o}pez}, P. and {Lund Saust}, R. and {M{\'e}nard}, B. and {Perrotta}, S. and {Prochaska}, J.~X. and {S{\'a}nchez-Ram{\'\i}rez}, R. and {Vestergaard}, M. and {Viel}, M. and {Wisotzki}, L.}, \
+>         title = "{XQ-100: A legacy survey of one hundred 3.5 {\ensuremath{\lesssim}} z {\ensuremath{\lesssim}} 4.5 quasars observed with VLT/X-shooter}", \
+>       journal = {\aap}, \
+>      keywords = {surveys, quasars: general, Astrophysics - Astrophysics of Galaxies}, \
+>          year = 2016,\
+>         month = oct,\
+>        volume = {594},\
+>           eid = {A91},\
+>         pages = {A91},\
+>           doi = {10.1051/0004-6361/201628161},\
+> archivePrefix = {arXiv},\
+>        eprint = {1607.08776},\
+>  primaryClass = {astro-ph.GA},\
+>        adsurl = {https://ui.adsabs.harvard.edu/abs/2016A&A...594A..91L},\
+>       adsnote = {Provided by the SAO/NASA Astrophysics Data System}\
 > }
 
 But if you use data specifically located in this repository, the preferred citation is coming soon.
