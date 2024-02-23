@@ -33,7 +33,7 @@ If you use the XQ-100 sample, the citation is:
 >       adsnote = {Provided by the SAO/NASA Astrophysics Data System}\
 > }
 
-But if you use data specifically located in this repository, the preferred citation is coming soon.
+But if you use data specifically located in this repository, the preferred citation is below.
 
 > @ARTICLE{2023MNRAS.526.3230L, \
 >        author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and {Bian}, Fuyan and {Cupani}, Guido and {Lopez}, Sebastian and {D'Odorico}, Valentina}, \ 
